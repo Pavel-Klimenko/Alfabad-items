@@ -1,0 +1,11 @@
+div {
+    text-align: center;
+}
+
+#heading {
+    font-weight: 700;
+}
+
+.hidden {
+    display: none;
+}
