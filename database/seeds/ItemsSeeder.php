@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Models\Items;
+use App\Models\Product;
 
 class ItemsSeeder extends Seeder
 {
@@ -22,7 +22,7 @@ class ItemsSeeder extends Seeder
         ];
 
         foreach ($arDemoItemsRows as $row) {
-            Items::create($row);
+            Product::create($row);
         }
     }
 }

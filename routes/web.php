@@ -12,3 +12,7 @@
 */
 
 Route::get('/', 'ItemsController@getItems');
+
+Route::get('/assign-categories/', 'ItemsController@assignCategoriesToItems');
+
+Route::get('/display-products/', 'ItemsController@displayProducts');
