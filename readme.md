@@ -6,12 +6,12 @@
 <p>Выводится таблица с товарами компании:</p>
 ![image](https://github.com/Pavel-Klimenko/Alfabad-items/assets/36805944/e8740213-812b-4dad-af88-debe9a41776f)
 
-<p>Реализована возможность скрыть/показать таблицу</p>
-
 <p>Реализована возможность добавлять товар по АПИ, возврат ответа со статусом 'success' или 'error'</p>
 ![image](https://github.com/Pavel-Klimenko/Alfabad-items/assets/36805944/44e38a6d-adff-431b-b9b1-65d4de66d17f)
 
-<p>Таблица соответствия категорий и товаров:</p>
+
+
+<h2>Таблица соответствия категорий и товаров:</h2>
 ![image](https://github.com/Pavel-Klimenko/Alfabad-items/assets/36805944/0cedd1f0-0572-4f60-83d5-54ec5822e791)
 
 <p>Вывод товаров с категориями на экран</p>
