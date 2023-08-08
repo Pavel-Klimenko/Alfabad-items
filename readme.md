@@ -13,5 +13,10 @@
 ![image](https://github.com/Pavel-Klimenko/Alfabad-items/assets/36805944/44e38a6d-adff-431b-b9b1-65d4de66d17f)
 
 
+<p>Реализован вывод списка товаров с категориями</p>
+![image](https://github.com/Pavel-Klimenko/Alfabad-items/assets/36805944/9e3ec18f-d6e5-4abf-a29f-1c6340ddaf7d)
+
+
+
 
 
